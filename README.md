@@ -1,0 +1,1 @@
+# LIKE-Function-in-SQL
