@@ -9,7 +9,7 @@ Finds any values that start with mosa.
 WHERE image_name LIKE '%mosa%'
 Finds any values that have mosa in any position.
 
-WHERE SALARY LIKE '%mosa'
+WHERE image_name '%mosa'
 Finds any values that end with mosa.
 
 WHERE image_name LIKE '_mosa%'
